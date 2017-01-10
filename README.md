@@ -3,7 +3,7 @@
 Java反射封装库，简化反射使用！可完美反射各种修饰符修饰的属性-方法-对象等！
 
 ## 效果
-
+![](https://github.com/wzgiceman/Reflection/blob/master/gif/reflect.gif)
 
 ## 依赖
 
